@@ -1,18 +1,12 @@
-.navbar {
-    background-color: #222;
-}
-
 .navlist {
     margin-left: auto;
 }
-
-
 
 .carousel-caption {
     background-color: rgba(0, 0, 0, 0.1); }
 
 .badge-pill-lg {
-    background-color: rgb(128, 89, 89);
+    background-color: rgb(141, 99, 99);
     font-size: 12px;
 }
 
