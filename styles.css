@@ -91,6 +91,32 @@ transition: all 250ms ease-in-out 0s;
 }
 
 
+.container-fluid {
+    margin-top: 20px;
+  /*   border: 2px solid red; */
+    background-color: #494947;
+    color: white;
+  /*   width: 500px; */
+    
+}
+  
+  #form_email,
+  #form_name,
+  #form_lastname,
+  #form_message {
+    border: 2px solid #000608;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  
+  
+  
+  #btn:hover {
+    background-color: white;
+    color:#f0ad4e;
+  }
+
 
 
 
